@@ -9,7 +9,7 @@
   "homepage": "https://github.com/MoOx/bs-react-helmet",
   "repository": "https://github.com/MoOx/bs-react-helmet",
   "files": [
-    "src/*.re",
+    "src/*.res",
     "bsconfig.json"
   ],
   "keywords": [
