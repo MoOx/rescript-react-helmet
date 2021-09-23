@@ -30,15 +30,15 @@
     "reason-react"
   ],
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-helmet": "^6.0.0",
     "@rescript/react": "^0.10.3"
   },
   "devDependencies": {
     "npmpub": "^5.0.0",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-helmet": "^6.0.0",
     "rescript": "^9.1.4"
   },
