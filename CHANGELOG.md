@@ -1,5 +1,12 @@
 # Changelog of `@moox/bs-react-helmet`
 
+## 4.0.0 - 2021-09-23
+
+- removed bs-platform and reason-react
+- added rescript and @rescript/react
+
+Bindings to helmetProp changed.
+
 ## 3.0.0 - 2020-06-11
 
 - Bump react-helmet peer dependency to v6
