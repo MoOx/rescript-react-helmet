@@ -1,6 +1,6 @@
 {
   "name": "@moox/bs-react-helmet",
-  "version": "4.0.0",
+  "version": "3.0.0",
   "description": "Reason / BuckleScript bindings for React Helmet, a document head manager for React",
   "license": "MIT",
   "publishConfig": {
