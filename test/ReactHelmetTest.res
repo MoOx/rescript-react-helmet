@@ -1,6 +1,6 @@
 @react.component
 let make = () =>
-  <BsReactHelmet defaultTitle="This is a title">
+  <ReactHelmet defaultTitle="This is a title">
     <style>
       {j`
 html {
@@ -9,4 +9,4 @@ html {
 }
 `->React.string}
     </style>
-  </BsReactHelmet>
+  </ReactHelmet>

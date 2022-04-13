@@ -1,4 +1,9 @@
-# Changelog of `@moox/bs-react-helmet`
+# Changelog of `rescript-react-helmet`
+
+## 4.0.0 - 2022-04-13
+
+- Migrated to ReScript
+- Renamed `rescript-react-helmet`
 
 ## 3.0.0 - 2020-06-11
 
@@ -9,7 +14,7 @@ No binding changes.
 
 ## 2.1.0 - 2019-04-15
 
-- Improved htmlAttributes and meta types [#1](https://github.com/MoOx/bs-react-helmet/pull/1) by @johnridesabike
+- Improved htmlAttributes and meta types [#1](https://github.com/MoOx/rescript-react-helmet/pull/1) by @johnridesabike
 
 ## 2.0.0 - 2019-04-15
 
@@ -42,4 +47,4 @@ No binding changes.
 
 ## 1.0.0 - 2018-10-27
 
-Initial release from [bs-react-helmet](https://github.com/bguzryanto/bs-react-helmet).
+Initial release from [rescript-react-helmet](https://github.com/bguzryanto/rescript-react-helmet).

@@ -1,6 +1,5 @@
 {
-  "name": "@moox/bs-react-helmet",
-  "refmt": 3,
+  "name": "rescript-react-helmet",
   "reason": {
     "react-jsx": 3
   },
@@ -20,7 +19,5 @@
       "module": "es6"
     }
   ],
-  "bs-dependencies": [
-    "@rescript/react"
-  ]
+  "bs-dependencies": ["@rescript/react"]
 }

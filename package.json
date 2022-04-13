@@ -1,44 +1,37 @@
 {
-  "name": "@moox/bs-react-helmet",
-  "version": "3.0.0",
-  "description": "Reason / BuckleScript bindings for React Helmet, a document head manager for React",
+  "name": "rescript-react-helmet",
+  "version": "4.0.0",
+  "description": "ReScript bindings for React Helmet, a document head manager for React",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/MoOx/bs-react-helmet",
-  "repository": "https://github.com/MoOx/bs-react-helmet",
+  "homepage": "https://github.com/MoOx/rescript-react-helmet",
+  "repository": "https://github.com/MoOx/rescript-react-helmet",
   "files": [
     "src/*.res",
     "bsconfig.json"
   ],
   "keywords": [
-    "Reason",
-    "BuckleScript",
-    "bs-react-helmet",
-    "bs",
-    "bucklescript",
-    "bucklescript-bindings",
+    "rescript",
     "react",
     "react-dom",
     "head",
     "html",
     "html-head",
-    "react-helmet",
-    "reasonml",
-    "reason",
-    "reason-react"
+    "react-helmet"
   ],
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-helmet": "^6.0.0",
-    "@rescript/react": "^0.10.3"
+    "@rescript/react": "^0.10.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-helmet": "^6.0.0"
   },
   "devDependencies": {
+    "@rescript/react": "^0.10.3",
     "npmpub": "^5.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-helmet": "^6.0.0",
     "rescript": "^9.1.4"
   },
